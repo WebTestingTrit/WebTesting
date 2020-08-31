@@ -4,7 +4,7 @@
 
 Implementar una pila Last-In-First-Out (LIFO) en JavaScript
 
-Crear un estructura que permita agregar elementos. Al recuperarlos devolverá el último agregado. Al devolverlo lo eliminár de la pila.
+Crear un estructura que permita agregar elementos. Al recuperar los elementos devolverá el último agregado. Al devolverlo lo eliminrá de la pila.
 
 ### Requerimientos
 
@@ -16,9 +16,9 @@ Se recuperarán uno a uno con el método `pop()`
 
 Realizar el ejercicio creando antes el código y después el test.
 
-Repetir el ejercicio, escibiendo primero el código.
+Repetir el ejercicio, escribiendo primero el código.
 
-Documentarlo siguiedo la técnica BDD
+Documentarlo siguiendo la técnica BDD
 
 
 
