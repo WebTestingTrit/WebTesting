@@ -26,4 +26,4 @@ Curso de programación de pruebas de aplicaciones web con TrainingIT
 
 #### Práctica propuesta
 
-[Práctica de pruebas e2e](https://github.com/WebTestingTrit/WebTesting/blob/master/pr%C3%A1ctica-introducci%C3%B3n-al-testing.md)
+[Práctica de pruebas e2e](https://github.com/WebTestingTrit/WebTesting/blob/master/pr%C3%A1ctica-pruebas-e2e.md)
