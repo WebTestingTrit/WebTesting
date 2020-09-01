@@ -27,3 +27,16 @@ Curso de programación de pruebas de aplicaciones web con TrainingIT
 #### Práctica propuesta
 
 [Práctica de pruebas e2e](https://github.com/WebTestingTrit/WebTesting/blob/master/pr%C3%A1ctica-pruebas-e2e.md)
+
+
+## 3 - Pruebas funcionales con Cypres
+
+#### Documento en PDF
+
+[Pruebas funcionales con Cypress](https://github.com/WebTestingTrit/WebTesting/blob/master/pruebas-funcionales-con-cypress.pdf)
+
+#### Laboratorios de ejemplo
+[3- Cypress Labs](https://github.com/WebTestingTrit/WebTesting_e2e-functional_cypress_Labs)
+
+#### Práctica propuesta
+_pendiente_
