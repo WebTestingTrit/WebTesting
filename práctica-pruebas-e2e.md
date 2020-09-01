@@ -19,4 +19,4 @@ Comprobarlo emulando un dispositivo movil de tu elección
 
 Seguir la estructura Arrange-Act-Assert
 
-En los mensajes escritos usar el pat´ron Ginven-When-Then
+En los mensajes escritos usar el patrón Given-When-Then
