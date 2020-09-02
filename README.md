@@ -5,7 +5,7 @@ Curso de programación de pruebas de aplicaciones web con TrainingIT
 
 #### Documento en PDF
 
-[Introducción al testing](https://github.com/WebTestingTrit/WebTesting/blob/master/introducci%C3%B3n-al-testing.pdf)
+[1 - Introducción al testing](https://github.com/WebTestingTrit/WebTesting/blob/master/introducci%C3%B3n-al-testing.pdf)
 
 ## 2 - Primeras pruebas
 
@@ -21,7 +21,7 @@ Curso de programación de pruebas de aplicaciones web con TrainingIT
 
 #### Documento en PDF
 
-[Pruebas externas de principio a fin](https://github.com/WebTestingTrit/WebTesting/blob/master/pruebas-web-de-principio-a-fin.pdf)
+[3 - Pruebas externas de principio a fin](https://github.com/WebTestingTrit/WebTesting/blob/master/pruebas-web-de-principio-a-fin.pdf)
 
 #### Laboratorios de ejemplo
 [3 - e2e Puppeteer Labs](https://github.com/WebTestingTrit/WebTesting_e2e-puppeteer_Labs)
@@ -35,7 +35,7 @@ Curso de programación de pruebas de aplicaciones web con TrainingIT
 
 #### Documento en PDF
 
-[Pruebas funcionales con Cypress](https://github.com/WebTestingTrit/WebTesting/blob/master/pruebas-funcionales-con-cypress.pdf)
+[4 - Pruebas funcionales con Cypress](https://github.com/WebTestingTrit/WebTesting/blob/master/pruebas-funcionales-con-cypress.pdf)
 
 #### Laboratorios de ejemplo
 [4 - Cypress Labs](https://github.com/WebTestingTrit/WebTesting_e2e-functional_cypress_Labs)
