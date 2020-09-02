@@ -43,3 +43,17 @@ Curso de programación de pruebas de aplicaciones web con TrainingIT
 #### Práctica propuesta
 
 [4 - Práctica de pruebas funcionales](https://github.com/WebTestingTrit/WebTesting/blob/master/pr%C3%A1ctica-pruebas-funcionales-cypress.md)
+
+
+## 5 - Pruebas uitarias con Jest
+
+#### Documento en PDF
+
+_pendiente_
+
+#### Laboratorios de ejemplo
+[5 - Jest Labs](https://github.com/WebTestingTrit/webtesting_jest)
+
+#### Práctica propuesta
+
+_pendiente_
