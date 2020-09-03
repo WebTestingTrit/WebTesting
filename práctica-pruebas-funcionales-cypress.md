@@ -2,7 +2,7 @@
 
 ## Definición
 
-Probar el funcinoamiento de una web usando _Cypress_.
+Probar el funcionamiento de una web usando _Cypress_.
 Preferiblemente usa una tuya que tenga una parte accesible al público. 
 Si no puedes o quieres, te propongo que uses https://www.timeanddate.com/
 
