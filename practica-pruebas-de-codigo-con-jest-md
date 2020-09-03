@@ -1,14 +1,24 @@
 # Práctica pruebas de código con Jest
 
 ## Definición
+Rehacer la práctica incial de las primeras pruebas
 
+Implementar una pila Last-In-First-Out (LIFO) en JavaScript
 
+Crear un estructura que permita agregar elementos. Al recuperar los elementos devolverá el último agregado. Al devolverlo lo eliminrá de la pila.
 
 ### Requerimientos
 
+Se añadirán uno a uno con el método `push(item)`
 
+Se recuperarán uno a uno con el método `pop()`
+
+Pero esta vez se requiere:
+
+  - Usar Jest para las pruebas
+
+  - Partir de las pruebas antes del código. Es decir usar TDD.
+  
 #### Recomendaciones
 
-Seguir la estructura _Arrange-Act-Assert_
-
-En los mensajes escritos usar el patrón _Given-When-Then_
+Documentarlo siguiendo la técnica BDD
