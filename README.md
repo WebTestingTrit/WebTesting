@@ -49,11 +49,11 @@ Curso de programación de pruebas de aplicaciones web con TrainingIT
 
 #### Documento en PDF
 
-_pendiente_
+[5 - Pruebas de código con Jest](https://github.com/WebTestingTrit/WebTesting/blob/master/pruebas-de-codigo-con-jest.pdf)
 
 #### Laboratorios de ejemplo
 [5 - Jest Labs](https://github.com/WebTestingTrit/webtesting_jest)
 
 #### Práctica propuesta
 
-_pendiente_
+[5 - Practica de pruebas de código](https://github.com/WebTestingTrit/WebTesting/blob/master/practica-pruebas-de-codigo-con-jest-md)
