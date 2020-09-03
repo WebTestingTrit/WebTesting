@@ -1,0 +1,14 @@
+# Práctica pruebas de código con Jest
+
+## Definición
+
+
+
+### Requerimientos
+
+
+#### Recomendaciones
+
+Seguir la estructura _Arrange-Act-Assert_
+
+En los mensajes escritos usar el patrón _Given-When-Then_
